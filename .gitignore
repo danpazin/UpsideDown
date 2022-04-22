@@ -49,6 +49,7 @@ Package.resolved
 #
 .DS_Store
 db.sqlite
+.env
 #
 
 .build/
